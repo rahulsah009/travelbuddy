@@ -9,16 +9,18 @@
 TravelBuddy is an intelligent AI-powered travel planning assistant built on IBM Watson AI. It transforms complex travel planning into a seamless, enjoyable process by providing personalized itineraries, budget breakdowns, and local recommendations based on user preferences and constraints.
 
 ## Interface Preview
+
 ![Interface](img/interface.png)
 
 ## Kerala Recommendations
+
 ![Kerala 1](img/kerala1.png)
 ![Kerala 2](img/kerala2.png)
 ![Kerala 3](img/kerala3.png)
 
 ## Mumbai Food Recommendations
-![Mumbai](img/mumbai.png)
 
+![Mumbai](img/mumbai.png)
 
 ## ✨ Features
 
@@ -46,21 +48,18 @@ Travel planning can be overwhelming with countless options for destinations, acc
 - **Cloud Infrastructure**: IBM Cloud
 - **Deployment**: IBM Watsonx AI Agent Lab
 
-
-
-
 ## 🚀 Getting Started
 
 ### Prerequisites
+
 - IBM Cloud account
 - Watson Assistant service instance
 - Basic understanding of AI agents
 
-
-
 ## 💡 Usage Examples
 
 ### Planning a Budget Trip
+
 ```
 User: "Plan me a budget friendly short trip to Kerala just 3 days"
 TravelBuddy: Creates detailed itinerary with:
@@ -71,6 +70,7 @@ TravelBuddy: Creates detailed itinerary with:
 ```
 
 ### Local Food Discovery
+
 ```
 User: "Best street food to try in Mumbai"
 TravelBuddy: Provides comprehensive list including:
@@ -82,11 +82,12 @@ TravelBuddy: Provides comprehensive list including:
 ## 🏗️ Architecture
 
 ```
-User Input → Watson Assistant → Intent Recognition → 
+User Input → Watson Assistant → Intent Recognition →
 API Integrations → Response Generation → User Interface
 ```
 
 ### Key Components:
+
 - **Intent Recognition**: Understands travel planning requests
 - **Entity Extraction**: Identifies destinations, dates, budgets, preferences
 - **Integration Layer**: Connects to travel APIs and databases
@@ -99,8 +100,6 @@ API Integrations → Response Generation → User Interface
 3. Commit your changes (`git commit -m 'Add amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
-
 
 ## 🎯 Future Enhancements
 
@@ -127,10 +126,7 @@ API Integrations → Response Generation → User Interface
 
 ## 📞 Support
 
-
-- **Contact**: uttamrawat2004@gmail.com
-
-
+- **Contact**: kumarrahulji050103@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -144,4 +140,4 @@ API Integrations → Response Generation → User Interface
 
 **Built with ❤️ for travelers by travelers**
 
-*Making travel planning intelligent, personalized, and effortless.*
+_Making travel planning intelligent, personalized, and effortless._
